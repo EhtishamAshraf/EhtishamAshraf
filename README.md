@@ -13,7 +13,6 @@ I am a Mechatronics Engineer with a Master's in Computer Vision and Robotics, fo
 My main interests are:
 - ROS2-based robotic software development
 - MoveIt-based robotic arm control
-- Gazebo/MuJoCo simulation
 - Deep learning and reinforcement learning for robotics
 - Sim-to-real robotic manipulation
 - Mobile robot navigation and manipulation
@@ -46,32 +45,9 @@ Linux, Docker, Git, RViz, SolidWorks, AutoCAD, Altium Designer
 
 ---
 
-## Education
-
-**Master's in Computer Vision and Robotics**  
-Université de Bourgogne / EIPHI Graduate School, France
-
-**Bachelor's in Mechatronics Engineering**  
-Air University, Pakistan
-
----
-
-## Career Goal
-
-I am looking for Robotics Software Engineer, ROS2 Developer, Robotics Application Engineer, Perception Engineer, or Research Engineer opportunities.
-
-I am especially interested in roles involving ROS2, robotic perception, mobile robots, manipulation, simulation, and applied AI for robotics.
-
----
-
 ## Connect With Me
 
 - GitHub: [github.com/EhtishamAshraf](https://github.com/EhtishamAshraf)
 - LinkedIn: [linkedin.com/in/ehtisham-ashraf-26186512a](https://www.linkedin.com/in/ehtisham-ashraf-26186512a)
 - Email: ehtishamashraf67@gmail.com
 
----
-
-<p align="center">
-Building robots, learning continuously, and turning research ideas into working robotic systems.
-</p>
